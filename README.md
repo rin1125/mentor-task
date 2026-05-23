@@ -1,0 +1,4 @@
+announce/: slackでの定期アナウンスを行うB
+gmail_to_slack: メールを受信するとslackに通知を送る
+minutes: チームのMTGの議事録を生成する
+student_records: 生徒の定量的・定性的データを収集し、生徒単位でまとめる
